@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Rohit Mohan Yadav**
+# 👋 Hi there, I'm **Rohit Yadav**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitmohanyadav&label=Profile+Views" />
